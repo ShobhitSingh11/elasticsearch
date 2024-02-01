@@ -9,7 +9,7 @@
 package org.elasticsearch.gradle;
 
 public enum Architecture {
-
+    // clean test --continue
     X64("x86_64", "linux/amd64"),
     AARCH64("aarch64", "linux/arm64");
 
